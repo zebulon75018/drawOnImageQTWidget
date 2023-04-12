@@ -7,10 +7,10 @@ drawOnImageWidget is a C++/Qt project that provides a vector drawing widget for 
 ## Features
 
 - Allows users to load an image onto the widget
-- Provides drawing tools such as pen, brush, shapes, and text
-- Supports customization of stroke color, stroke width, fill color, and opacity
-- Allows for undo/redo functionality
-- Supports image zooming and panning
+- Provides drawing tools such as pen, shapes, and text
+- Supports customization of stroke color, stroke width
+- ( TODO )  Allows for undo/redo functionality
+- ( TODO ) Supports image zooming and panning
 - Provides an easy-to-use interface for drawing on an image
 
 ## Dependencies
@@ -29,15 +29,6 @@ drawOnImageWidget is a C++/Qt project that provides a vector drawing widget for 
 qmake
 make.
 
-## Usage
-
-1. Load an image onto the widget using the "Open Image" button.
-2. Select the desired drawing tool from the toolbar (pen, brush, shape, or text).
-3. Customize the drawing properties such as stroke color, stroke width, fill color, and opacity using the options provided.
-4. Draw on the image using the selected drawing tool.
-5. Use the undo/redo buttons to undo or redo drawing actions.
-6. Zoom in/out or pan the image as needed using the provided controls.
-7. Save the drawn image to a file or export it in a desired format.
 
 ## Contributing
 
