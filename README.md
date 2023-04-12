@@ -27,6 +27,11 @@ drawOnImageQTWidget is a C++/Qt project that provides a vector drawing widget fo
 qmake
 make.
 
+## Thank's to 
+
+1.https://github.com/vipstone/drawingboard
+2.http://fabricjs.com/
+
 
 ## Contributing
 
