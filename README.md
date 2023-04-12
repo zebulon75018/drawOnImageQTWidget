@@ -3,9 +3,9 @@
 drawOnImageQTWidget is a C++/Qt project that provides a vector drawing widget for drawing on an image. It utilizes the Qt framework and QWebkitWidgets module, along with the popular JavaScript library fabric.js for drawing functionality.
 
 
-![screenshot](https://github.com/zebulon75018/drawOnImageQTWidget/blob/main/screenshot1.png?raw=true)
+![screenshot](https://github.com/zebulon75018/drawOnImageQTWidget/blob/main/screenshot1.png?raw=true) (https://www.youtube.com/watch?v=tMI1xR0pLtM "Demo")
 
-[![Demo](https://img.youtube.com/vi/tMI1xR0pLtM/default.jpg)](https://www.youtube.com/watch?v=tMI1xR0pLtM "Demo")
+
   
 
 ## Features
