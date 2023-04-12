@@ -4,6 +4,10 @@ drawOnImageQTWidget is a C++/Qt project that provides a vector drawing widget fo
 
 
 ![screenshot](https://github.com/zebulon75018/drawOnImageQTWidget/blob/main/screenshot1.png?raw=true)
+
+[![Demo](https://img.youtube.com/vi/tMI1xR0pLtM/default.jpg)](https://www.youtube.com/watch?v=tMI1xR0pLtM "Demo")
+  
+
 ## Features
 
 - Allows users to load an image onto the widget
